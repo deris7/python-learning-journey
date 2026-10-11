@@ -1,10 +1,12 @@
-# python-learning-journey
+# Python Learning Journey
 
 Documenting my journey to becoming a software engineer through Python fundamentals, problem-solving, clean code, and progressively challenging projects.
 
-Week 1
+# Week 1
 
-# variabel data types
+## variabel data types
+
+## Function and parameter
 
 learning source :
 
