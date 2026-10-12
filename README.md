@@ -32,7 +32,8 @@ Topics covered:
 - Returning values from functions using return.
 - Using the main() function to organize program execution.
 - Using positional and keyword arguments in the print() function, including sep and end.
-  learning source :
+
+learning source :
 
 1. https://www.freecodecamp.org/learn/python-v9/lecture-understanding-variables-and-data-types/how-do-the-type-and-isinstance-functions-work
 2. https://cs50.harvard.edu/python/weeks/0/
